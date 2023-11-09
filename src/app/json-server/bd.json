@@ -1,0 +1,35 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "libelle": "Stylo",
+      "prix": 0.85
+    },
+    {
+      "id": 2,
+      "libelle": "cartable",
+      "prix": 100.8
+    },
+    {
+      "id": 3,
+      "libelle": "trousse",
+      "prix": 10.6
+    },
+    {
+      "id": 4,
+      "libelle": "tablier",
+      "prix": 23.8
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7,
+      "libelle": "trousse",
+      "prix": 10
+    }
+  ]
+}
